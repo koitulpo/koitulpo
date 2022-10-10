@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @koitulpo // Vitaliy Turgunov
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning SWIFT
-- 💞️ I’m looking to collaborate on ???
+- 💞️ I’m looking to collaborate on Apple
 - 📫 How to reach me: t.me/vitaliy_turgunov
 
 <!---
